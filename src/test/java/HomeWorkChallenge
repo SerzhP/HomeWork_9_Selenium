@@ -1,0 +1,10 @@
+1. Open any browser on "The Marker" website.
+
+ https://www.themarker.com/
+ Check how many times the word "news" exists in the page
+source.
+ Hint: use driver.getPageSource() method.
+
+2. Using JavaScriptExecutor
+ Print the current page (The same as if you pressed file 
+print in your browser).
